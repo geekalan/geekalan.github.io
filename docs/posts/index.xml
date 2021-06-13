@@ -5,7 +5,6 @@
     <link>https://geekalan.life/posts/</link>
     <description>Recent content in Posts on 乱世工人</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Wed, 09 Jun 2021 20:58:25 +0800</lastBuildDate><atom:link href="https://geekalan.life/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>卷首语</title>
@@ -18,11 +17,12 @@
 gridea是一个很优秀的博客系统，配合桌面图形化界面，非常方便。
 但最近我在学Emacs，由于gridea不支持命令行方式，于是换成了hugo。
 然而，这跟之前的hexo又有什么区别呢？
-不知道。
+一个基于node.js，一个基于go。然而，这对我而言并没有任何本质上的区别。
 之前hexo -g -d就能部署，现在每次hugo完了之后要git三连（add，commit push）。
 hugo官网上有个自动化脚本可以自动部署，但里面的内容已经超出了我的知识范围。
 git三连还是最近才学会的。
-到头来，为什么我不用鼠标方便地在gridea上操作？</description>
+到头来，为什么我不用鼠标方便地在gridea上操作？
+希望这次转换到hugo之后可以专注于写东西，而不是工具的倒腾。</description>
     </item>
     
   </channel>
