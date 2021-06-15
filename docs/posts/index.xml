@@ -5,9 +5,18 @@
     <link>https://geekalan.life/posts/</link>
     <description>Recent content in Posts on 乱世工人</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Jun 2021 20:58:25 +0800</lastBuildDate><atom:link href="https://geekalan.life/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 22:03:53 +0800</lastBuildDate><atom:link href="https://geekalan.life/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇</title>
+      <title>hogo学习笔记</title>
+      <link>https://geekalan.life/posts/how_to_hugo/</link>
+      <pubDate>Sun, 13 Jun 2021 22:03:53 +0800</pubDate>
+      
+      <guid>https://geekalan.life/posts/how_to_hugo/</guid>
+      <description>#安装 #生成目录 #运行 #上传到GitHub Pages</description>
+    </item>
+    
+    <item>
+      <title>开张大吉</title>
       <link>https://geekalan.life/posts/my-first-post/</link>
       <pubDate>Wed, 09 Jun 2021 20:58:25 +0800</pubDate>
       
