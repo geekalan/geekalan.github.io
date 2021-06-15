@@ -1,7 +1,7 @@
 ---
 title: "hogo学习笔记"
 date: 2021-06-13T22:03:53+08:00
-draft: false 
+draft: true
 ---
 #安装
 #生成目录
