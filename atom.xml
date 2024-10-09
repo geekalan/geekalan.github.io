@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://geekalan.life</id>
+    <title>乱世工人</title>
+    <updated>2024-10-09T17:19:25.472Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://geekalan.life"/>
+    <link rel="self" href="https://geekalan.life/atom.xml"/>
+    <subtitle>记录一个工人的日常</subtitle>
+    <logo>https://geekalan.life/images/avatar.png</logo>
+    <icon>https://geekalan.life/favicon.ico</icon>
+    <rights>All rights reserved 2024, 乱世工人</rights>
+    <entry>
+        <title type="html"><![CDATA[STM32串口收发]]></title>
+        <id>https://geekalan.life/post/stm32-chuan-kou-shou-fa/</id>
+        <link href="https://geekalan.life/post/stm32-chuan-kou-shou-fa/">
+        </link>
+        <updated>2023-10-06T14:20:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生日快乐，乱世工人]]></title>
+        <id>https://geekalan.life/post/sheng-ri-kuai-le-luan-shi-gong-ren/</id>
+        <link href="https://geekalan.life/post/sheng-ri-kuai-le-luan-shi-gong-ren/">
+        </link>
+        <updated>2021-03-21T13:59:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三月的风]]></title>
+        <id>https://geekalan.life/post/san-yue-de-feng/</id>
+        <link href="https://geekalan.life/post/san-yue-de-feng/">
+        </link>
+        <updated>2021-03-03T08:23:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写在2021年开端]]></title>
+        <id>https://geekalan.life/post/xie-zai-2021-nian-kai-duan/</id>
+        <link href="https://geekalan.life/post/xie-zai-2021-nian-kai-duan/">
+        </link>
+        <updated>2021-01-08T12:29:03.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种小众的写博客方式]]></title>
+        <id>https://geekalan.life/post/yi-chong-xiao-zhong-de-xie-bo-ke-fang-shi/</id>
+        <link href="https://geekalan.life/post/yi-chong-xiao-zhong-de-xie-bo-ke-fang-shi/">
+        </link>
+        <updated>2020-05-22T04:47:50.000Z</updated>
+    </entry>
+</feed>
